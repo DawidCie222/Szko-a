@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\Zadanie_Dawid_Cieslak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\Zadanie_Dawid_Cieslak1.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\Zadanie_Dawid_Cieslak1.AssemblyInfo.cs
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\Zadanie_Dawid_Cieslak1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\bin\Debug\net10.0\Zadanie_Dawid_Cieslak1.exe
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\bin\Debug\net10.0\Zadanie_Dawid_Cieslak1.deps.json
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\bin\Debug\net10.0\Zadanie_Dawid_Cieslak1.runtimeconfig.json
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\bin\Debug\net10.0\Zadanie_Dawid_Cieslak1.dll
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\bin\Debug\net10.0\Zadanie_Dawid_Cieslak1.pdb
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\Zadanie_Dawid_Cieslak1.dll
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\refint\Zadanie_Dawid_Cieslak1.dll
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\Zadanie_Dawid_Cieslak1.pdb
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\Zadanie_Dawid_Cieslak1.genruntimeconfig.cache
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\ref\Zadanie_Dawid_Cieslak1.dll
+C:\Users\dawid\Desktop\C#\4.10.2026\Zadanie_Dawid_Cieslak1\obj\Debug\net10.0\Zadanie_.1D9DF2E4.Up2Date
